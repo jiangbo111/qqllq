@@ -1,0 +1,111 @@
+.body{
+    margin: 0;
+    width: 910px;
+} 
+.header{
+   width: 910px;
+   height:auto;
+}
+
+.qbj{
+    padding: 10px 20px;
+    background-color: #3299cd;
+    color: aliceblue;
+}
+.dhw{
+    overflow: hidden;
+    width: 910px;
+}
+.dhw ul{
+    text-align:center;
+}
+.dhw li{
+    font-weight: normal;
+    display: block;
+    font-size: 16px;
+    float: left;
+    padding: 7px 6px;
+    list-style: none;
+    margin-left: 42px;
+}
+.main{
+    overflow: hidden;
+    width: 910px;
+}
+.left{
+    float: left;
+}
+.right{
+    width: 743px;
+    height:auto;
+    padding-left: 350px;
+    position: absolute;
+    
+}
+.left{
+    width: 300px;
+    height: auto;
+
+}
+
+.left h1{
+    background-color: #3299cd;
+    font-size: 20px;
+
+}
+.left li{
+    list-style: none;
+}
+.bcolor{
+    color: red;
+}
+.asdf{
+    border-bottom: 1px solid #ff0000;
+    
+}
+.cssjj{
+    
+    font-weight: normal;
+    border-bottom: 1px solid #808080;
+}
+.cssjj h1{
+    font-size: 22px;
+    
+}
+.aner{
+    width: 743px;
+    height: auto;
+    border-bottom: 4px solid #aaaaaa;
+    overflow: hidden;
+    
+}
+.dygan1{
+    padding: 10px 20px;
+    float: left;
+}
+.dygan1 a{
+    border: 1px solid #808080;
+    background-color: #f4f4f4;
+    line-height: 36px;
+    padding: 5px 10px;
+}
+.dygan2{
+    padding: 10px 20px;
+    float: left;
+}
+.dygan2 a{
+    padding: 5px 10px;
+    border: 1px solid #808080;
+    background-color: #f4f4f4;
+    line-height: 36px;
+}
+.nrzs1{
+    border-bottom: 1px dashed #cdcdcd;
+}
+.nrzs2{
+    border-bottom: 1px solid #cdcdcd;
+    padding-bottom: 10px;
+}
+.textc{
+    color: #ff0000;
+}
