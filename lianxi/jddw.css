@@ -109,3 +109,13 @@
 .textc{
     color: #ff0000;
 }
+.yuio h4{
+    color: #9e9e9e;
+}
+.footer{
+    height: 50px;
+    background-color: #dddddd;
+    text-align: center;
+    color: #a8a8a8;
+    line-height: 44px;
+}
